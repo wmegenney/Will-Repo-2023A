@@ -1,0 +1,18 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "myPkgAlias",
+      "versionName": "1.0.0",
+      "versionNumber": "1.0.0.NEXT"
+    }
+  ],
+  "name": "WillTest2023B",
+  "namespace": "",
+  "sfdcLoginUrl": "https://test.salesforce.com",
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "myPkgAlias": "0Ho000000000000001"
+  }
+}
